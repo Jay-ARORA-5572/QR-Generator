@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# QR Generator – Google-Only Version
+# QR Generator
 
 A lightweight, responsive, HTML/CSS/JS-based QR generator that automatically generates a QR code for **(https://github.com/Jay-ARORA-5572)** on page load. Includes dark/light mode, downloads in multiple formats, and ZIP export.
 
