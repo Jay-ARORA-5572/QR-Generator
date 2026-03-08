@@ -1,12 +1,13 @@
+<<<<<<< HEAD
 # QR Generator – Google-Only Version
 
-A lightweight, responsive, HTML/CSS/JS-based QR generator that automatically generates a QR code for **[E-commerce-database](https://github.com/Jay-ARORA-5572/E-commerce-database)** on page load. Includes dark/light mode, downloads in multiple formats, and ZIP export.
+A lightweight, responsive, HTML/CSS/JS-based QR generator that automatically generates a QR code for **(https://github.com/Jay-ARORA-5572/)** on page load. Includes dark/light mode, downloads in multiple formats, and ZIP export.
 
 ## Features
 
 ### **1. Auto QR Generation**
 
-* Automatically generates the QR code for **[E-commerce-database](https://github.com/Jay-ARORA-5572/E-commerce-database)** when the page loads.
+* Automatically generates the QR code for **(https://github.com/Jay-ARORA-5572/)** when the page loads.
 * No input required; link is fixed and non-editable.
 
 ### **2. Download Options**
@@ -61,7 +62,7 @@ qr-generator/
    * Edge
    * Safari
 
-2. The page automatically generates a **QR code for my other project 'E-commerce-database'**.
+2. The page automatically generates a **QR code for my other project ''**.
 
 3. Use the download buttons to export:
 
@@ -86,7 +87,7 @@ Best for:
 Inside `index.html`, update this line:
 
 ```html
-<input type="text" id="text" value="https://github.com/Jay-ARORA-5572/E-commerce-database" readonly>
+<input type="text" id="text" value="https://github.com/Jay-ARORA-5572/" readonly>
 ```
 
 ### **Customize Themes**
